@@ -5,14 +5,20 @@ This personal project uses ___ to get data on the Premier League, and is 2 separ
 
 ## TOTS Predictor Model
 Technology:
+ML Arch:
 Stats -- >
 
 ## Transfer Value Estimator
 
 Technology: 
+ML Arch:
 Stats -- >
 
 ## Front End
 Technology:
 
+
 ## How to use: 
+
+
+## Project Schedule
