@@ -1,442 +1,71 @@
-https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)
-(*********************)
-<table class="wikitable plainrowheaders" style="text-align: left">
-<tbody><tr>
-<th scope="col">Pos.
-</th>
-<th scope="col">Player
-</th>
-<th scope="col">Club
-</th>
-<th scope="col">App.
-</th></tr>
-<tr>
-<td style="text-align:center">GK
-</td>
-<th scope="row"><a href="/wiki/Nick_Pope_(footballer)" title="Nick Pope (footballer)">Nick Pope</a>
-</th>
-<td><a href="/wiki/Burnley_F.C." title="Burnley F.C.">Burnley</a>
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/Trent_Alexander-Arnold" title="Trent Alexander-Arnold">Trent Alexander-Arnold</a> †
-</th>
-<td><a href="/wiki/Liverpool_F.C." title="Liverpool F.C.">Liverpool
-</a>
-</td>
-<td style="text-align:center">2
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/Virgil_van_Dijk" title="Virgil van Dijk">Virgil van Dijk</a> †
-</th>
-<td>Liverpool
-</td>
-<td style="text-align:center">2
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/%C3%87a%C4%9Flar_S%C3%B6y%C3%BCnc%C3%BC" title="Çağlar Söyüncü">Çağlar Söyüncü</a>
-</th>
-<td><a href="/wiki/Leicester_City_F.C." title="Leicester City F.C.">Leicester City</a>
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/Andrew_Robertson" title="Andrew Robertson">Andrew Robertson</a> †
-</th>
-<td>Liverpool
-</td>
-<td style="text-align:center">2
-</td></tr>
-<tr>
-<td style="text-align:center">MF
-</td>
-<th scope="row"><a href="/wiki/Kevin_De_Bruyne" title="Kevin De Bruyne">Kevin De Bruyne</a> †
-</th>
-<td><a href="/wiki/Manchester_City_F.C." title="Manchester City F.C.">Manchester City</a>
-</td>
-<td style="text-align:center">2
-</td></tr>
-<tr>
-<td style="text-align:center">MF
-</td>
-<th scope="row"><a href="/wiki/David_Silva" title="David Silva">David Silva</a> †
-</th>
-<td>Manchester City
-</td>
-<td style="text-align:center">3
-</td></tr>
-<tr>
-<td style="text-align:center">MF
-</td>
-<th scope="row"><a href="/wiki/Jordan_Henderson" title="Jordan Henderson">Jordan Henderson</a>
-</th>
-<td>Liverpool
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">FW
-</td>
-<th scope="row"><a href="/wiki/Jamie_Vardy" title="Jamie Vardy">Jamie Vardy</a> †
-</th>
-<td>Leicester City
-</td>
-<td style="text-align:center">2
-</td></tr>
-<tr>
-<td style="text-align:center">FW
-</td>
-<th scope="row"><a href="/wiki/Pierre-Emerick_Aubameyang" title="Pierre-Emerick Aubameyang">Pierre-Emerick Aubameyang</a>
-</th>
-<td><a href="/wiki/Arsenal_F.C." title="Arsenal F.C.">Arsenal</a>
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">FW
-</td>
-<th scope="row"><a href="/wiki/Sadio_Man%C3%A9" title="Sadio Mané">Sadio Mané</a> †
-</th>
-<td>Liverpool
-</td>
-<td style="text-align:center">3
-</td></tr></tbody></table>
-(*********************)
-<table class="wikitable plainrowheaders" style="text-align: left">
-<tbody><tr>
-<th scope="col">Pos.
-</th>
-<th scope="col">Player
-</th>
-<th scope="col">Club
-</th>
-<th scope="col">App.
-</th></tr>
-<tr>
-<td style="text-align:center">GK
-</td>
-<th scope="row"><a href="/wiki/Ederson_(footballer,_born_1993)" title="Ederson (footballer, born 1993)">Ederson</a> †
-</th>
-<td><a href="/wiki/Manchester_City_F.C." title="Manchester City F.C.">Manchester City</a>
-</td>
-<td style="text-align:center">2
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/Jo%C3%A3o_Cancelo" title="João Cancelo">João Cancelo</a>
-</th>
-<td>Manchester City
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/John_Stones" title="John Stones">John Stones</a>
-</th>
-<td>Manchester City
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/R%C3%BAben_Dias" title="Rúben Dias">Rúben Dias</a>
-</th>
-<td>Manchester City
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/Luke_Shaw" title="Luke Shaw">Luke Shaw</a> †
-</th>
-<td><a href="/wiki/Manchester_United_F.C." title="Manchester United F.C.">Manchester United</a>
-</td>
-<td style="text-align:center">2
-</td></tr>
-<tr>
-<td style="text-align:center">MF
-</td>
-<th scope="row"><a href="/wiki/Kevin_De_Bruyne" title="Kevin De Bruyne">Kevin De Bruyne</a> †
-</th>
-<td>Manchester City
-</td>
-<td style="text-align:center">3
-</td></tr>
-<tr>
-<td style="text-align:center">MF
-</td>
-<th scope="row"><a href="/wiki/%C4%B0lkay_G%C3%BCndo%C4%9Fan" title="İlkay Gündoğan">İlkay Gündoğan</a>
-</th>
-<td>Manchester City
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">MF
-</td>
-<th scope="row"><a href="/wiki/Bruno_Fernandes" title="Bruno Fernandes">Bruno Fernandes</a>
-</th>
-<td>Manchester United
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">FW
-</td>
-<th scope="row"><a href="/wiki/Harry_Kane" title="Harry Kane">Harry Kane</a> †
-</th>
-<td><a href="/wiki/Tottenham_Hotspur_F.C." title="Tottenham Hotspur F.C.">Tottenham Hotspur</a>
-</td>
-<td style="text-align:center">5
-</td></tr>
-<tr>
-<td style="text-align:center">FW
-</td>
-<th scope="row"><a href="/wiki/Mohamed_Salah" title="Mohamed Salah">Mohamed Salah</a> †
-</th>
-<td><a href="/wiki/Liverpool_F.C." title="Liverpool F.C.">Liverpool</a>
-</td>
-<td style="text-align:center">2
-</td></tr>
-<tr>
-<td style="text-align:center">FW
-</td>
-<th scope="row"><a href="/wiki/Son_Heung-min" title="Son Heung-min">Son Heung-min</a>
-</th>
-<td>Tottenham Hotspur
-</td>
-<td style="text-align:center">1
-</td></tr></tbody></table>
-(*********************)
-<table class="wikitable plainrowheaders" style="text-align: left">
-<tbody><tr>
-<th scope="col">Pos.
-</th>
-<th scope="col">Player
-</th>
-<th scope="col">Club
-</th>
-<th scope="col">App.
-</th></tr>
-<tr>
-<td style="text-align:center">GK
-</td>
-<th scope="row"><a class="mw-redirect" href="/wiki/Alisson" title="Alisson">Alisson</a>
-</th>
-<td><a href="/wiki/Liverpool_F.C." title="Liverpool F.C.">Liverpool</a>
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/Trent_Alexander-Arnold" title="Trent Alexander-Arnold">Trent Alexander-Arnold</a> †
-</th>
-<td>Liverpool
-</td>
-<td style="text-align:center">3
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/Virgil_van_Dijk" title="Virgil van Dijk">Virgil van Dijk</a> †
-</th>
-<td>Liverpool
-</td>
-<td style="text-align:center">3
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/Antonio_R%C3%BCdiger" title="Antonio Rüdiger">Antonio Rüdiger</a>
-</th>
-<td><a href="/wiki/Chelsea_F.C." title="Chelsea F.C.">Chelsea</a>
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/Jo%C3%A3o_Cancelo" title="João Cancelo">João Cancelo</a> †
-</th>
-<td><a href="/wiki/Manchester_City_F.C." title="Manchester City F.C.">Manchester City</a>
-</td>
-<td style="text-align:center">2
-</td></tr>
-<tr>
-<td style="text-align:center">MF
-</td>
-<th scope="row"><a href="/wiki/Bernardo_Silva" title="Bernardo Silva">Bernardo Silva</a> †
-</th>
-<td>Manchester City
-</td>
-<td style="text-align:center">2
-</td></tr>
-<tr>
-<td style="text-align:center">MF
-</td>
-<th scope="row"><a href="/wiki/Thiago_Alc%C3%A2ntara" title="Thiago Alcântara">Thiago</a>
-</th>
-<td>Liverpool
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">MF
-</td>
-<th scope="row"><a href="/wiki/Kevin_De_Bruyne" title="Kevin De Bruyne">Kevin De Bruyne</a> †
-</th>
-<td>Manchester City
-</td>
-<td style="text-align:center">4
-</td></tr>
-<tr>
-<td style="text-align:center">FW
-</td>
-<th scope="row"><a href="/wiki/Sadio_Man%C3%A9" title="Sadio Mané">Sadio Mané</a> †
-</th>
-<td>Liverpool
-</td>
-<td style="text-align:center">4
-</td></tr>
-<tr>
-<td style="text-align:center">FW
-</td>
-<th scope="row"><a href="/wiki/Cristiano_Ronaldo" title="Cristiano Ronaldo">Cristiano Ronaldo</a> †
-</th>
-<td><a href="/wiki/Manchester_United_F.C." title="Manchester United F.C.">Manchester United</a>
-</td>
-<td style="text-align:center">5
-</td></tr>
-<tr>
-<td style="text-align:center">FW
-</td>
-<th scope="row"><a href="/wiki/Mohamed_Salah" title="Mohamed Salah">Mohamed Salah</a> †
-</th>
-<td>Liverpool
-</td>
-<td style="text-align:center">3
-</td></tr></tbody></table>
-(*********************)
-<table class="wikitable plainrowheaders" style="text-align: left">
-<tbody><tr>
-<th scope="col">Pos.
-</th>
-<th scope="col">Player
-</th>
-<th scope="col">Club
-</th>
-<th scope="col">App.
-</th></tr>
-<tr>
-<td style="text-align:center">GK
-</td>
-<th scope="row"><a href="/wiki/Aaron_Ramsdale" title="Aaron Ramsdale">Aaron Ramsdale</a>
-</th>
-<td><a href="/wiki/Arsenal_F.C." title="Arsenal F.C.">Arsenal</a>
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/William_Saliba" title="William Saliba">William Saliba</a>
-</th>
-<td>Arsenal
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/R%C3%BAben_Dias" title="Rúben Dias">Rúben Dias</a> †
-</th>
-<td><a href="/wiki/Manchester_City_F.C." title="Manchester City F.C.">Manchester City</a>
-</td>
-<td style="text-align:center">2
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/John_Stones" title="John Stones">John Stones</a> †
-</th>
-<td>Manchester City
-</td>
-<td style="text-align:center">2
-</td></tr>
-<tr>
-<td style="text-align:center">DF
-</td>
-<th scope="row"><a href="/wiki/Kieran_Trippier" title="Kieran Trippier">Kieran Trippier</a>
-</th>
-<td><a href="/wiki/Newcastle_United_F.C." title="Newcastle United F.C.">Newcastle United</a>
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">MF
-</td>
-<th scope="row"><a href="/wiki/Martin_%C3%98degaard" title="Martin Ødegaard">Martin Ødegaard</a>
-</th>
-<td>Arsenal
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">MF
-</td>
-<th scope="row"><a href="/wiki/Rodri_(footballer,_born_1996)" title="Rodri (footballer, born 1996)">Rodri</a>
-</th>
-<td>Manchester City
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">MF
-</td>
-<th scope="row"><a href="/wiki/Kevin_De_Bruyne" title="Kevin De Bruyne">Kevin De Bruyne</a> †
-</th>
-<td>Manchester City
-</td>
-<td style="text-align:center">5
-</td></tr>
-<tr>
-<td style="text-align:center">FW
-</td>
-<th scope="row"><a href="/wiki/Harry_Kane" title="Harry Kane">Harry Kane</a> †
-</th>
-<td><a href="/wiki/Tottenham_Hotspur_F.C." title="Tottenham Hotspur F.C.">Tottenham Hotspur</a>
-</td>
-<td style="text-align:center">6
-</td></tr>
-<tr>
-<td style="text-align:center">FW
-</td>
-<th scope="row"><a href="/wiki/Erling_Haaland" title="Erling Haaland">Erling Haaland</a>
-</th>
-<td>Manchester City
-</td>
-<td style="text-align:center">1
-</td></tr>
-<tr>
-<td style="text-align:center">FW
-</td>
-<th scope="row"><a href="/wiki/Bukayo_Saka" title="Bukayo Saka">Bukayo Saka</a>
-</th>
-<td>Arsenal
-</td>
-<td style="text-align:center">1
-</td></tr></tbody></table>
+   Pos           Player              Squad  Tots_Apps
+0   GK   Aaron Ramsdale            Arsenal          1
+1   DF   William Saliba            Arsenal          1
+2   DF        Rben Dias    Manchester City          2
+3   DF      John Stones    Manchester City          2
+4   DF  Kieran Trippier   Newcastle United          1
+5   MF   Martin degaard            Arsenal          1
+6   MF            Rodri    Manchester City          1
+7   MF  Kevin De Bruyne    Manchester City          5
+8   FW       Harry Kane  Tottenham Hotspur          6
+9   FW   Erling Haaland    Manchester City          1
+10  FW      Bukayo Saka            Arsenal          1
+
+
+    Unnamed: 0_level_0   Unnamed: 1_level_0 Unnamed: 2_level_0  \
+                    Rk               Player             Nation   
+0                    1     Brenden Aaronson             us USA   
+1                    2        George Abbott            eng ENG   
+2                    3            Che Adams            sct SCO   
+3                    4          Tyler Adams             us USA   
+4                    5     Tosin Adarabioyo            eng ENG   
+..                 ...                  ...                ...   
+586                565        Jordan Zemura             zw ZIM   
+587                566  Oleksandr Zinchenko             ua UKR   
+588                567         Hakim Ziyech             ma MAR   
+589                568           Kurt Zouma             fr FRA   
+590                569      Martin Ødegaard             no NOR   
+
+    Unnamed: 3_level_0 Unnamed: 4_level_0 Unnamed: 5_level_0  \
+                   Pos              Squad                Age   
+0                MF,FW       Leeds United                 21   
+1                   MF          Tottenham                 16   
+2                   FW        Southampton                 26   
+3                   MF       Leeds United                 23   
+4                   DF             Fulham                 24   
+..                 ...                ...                ...   
+586                 DF        Bournemouth                 22   
+587                 DF            Arsenal                 25   
+588              FW,MF            Chelsea                 29   
+589                 DF           West Ham                 27   
+590                 MF            Arsenal                 23   
+
+    Unnamed: 6_level_0 Playing Time               ... Per 90 Minutes        \
+                  Born           MP Starts   Min  ...            Ast   G+A   
+0                 2000           36     28  2372  ...           0.11  0.15   
+1                 2005            1      0     1  ...           0.00  0.00   
+2                 1996           28     23  1992  ...           0.14  0.36   
+3                 1999           24     24  2156  ...           0.00  0.00   
+4                 1997           25     23  2085  ...           0.00  0.04   
+..                 ...          ...    ...   ...  ...            ...   ...   
+586               1999           19     17  1454  ...           0.06  0.06   
+587               1996           27     26  2118  ...           0.08  0.13   
+588               1993           18      6   661  ...           0.41  0.41   
+589               1994           25     24  1989  ...           0.00  0.09   
+590               1998           37     37  3127  ...           0.20  0.63   
+
+                                                   Unnamed: 36_level_0  
+     G-PK G+A-PK    xG   xAG xG+xAG  npxG npxG+xAG             Matches  
+0    0.04   0.15  0.15  0.16   0.31  0.15     0.31             Matches  
+1    0.00   0.00  0.00  0.00   0.00  0.00     0.00             Matches  
+2    0.23   0.36  0.30  0.13   0.42  0.30     0.42             Matches  
+3    0.00   0.00  0.00  0.06   0.06  0.00     0.06             Matches  
+4    0.04   0.04  0.03  0.02   0.05  0.03     0.05             Matches  
+..    ...    ...   ...   ...    ...   ...      ...                 ...  
+586  0.00   0.06  0.02  0.11   0.14  0.02     0.14             Matches  
+587  0.04   0.13  0.06  0.06   0.12  0.06     0.12             Matches  
+588  0.00   0.41  0.08  0.30   0.38  0.08     0.38             Matches  
+589  0.09   0.09  0.10  0.00   0.10  0.10     0.10             Matches  
+590  0.43   0.63  0.29  0.23   0.52  0.29     0.52             Matches  
+
+[591 rows x 37 columns]
